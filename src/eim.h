@@ -43,7 +43,7 @@ class FcitxWindowHandler;
 /*
  * the reason that not using zhuyin enum here
  * 1. zhuyin seems cannot make enum stable (from their header)
- * 2. the range is not continous, so make a translate layer
+ * 2. the range is not continuous, so make a translate layer
  */
 enum FCITX_ZHUYIN_LAYOUT {
     FCITX_ZHUYIN_STANDARD,
